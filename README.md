@@ -47,7 +47,7 @@ jobs_analysis.pdf        → Project report (if added)
 ## 📊 Sample Insights
 - Certain metro cities have higher job concentration  
 - Remote / Pan India jobs increasing  
-- Tech and design roles dominate listings  
+  
 
 ---
 
